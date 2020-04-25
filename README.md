@@ -5,6 +5,7 @@
 
 
 ## 如何部署
+部署官方文档参见 [https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/blazor/webassembly?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/blazor/webassembly?view=aspnetcore-3.1)
 通过以下命令行使用 docker 运行应用，然后访问：[http://localhost:56000/](http://localhost:56000/)
 ```
 ./publish.sh
