@@ -1,0 +1,1 @@
+docker push home.freemanke.com:60013/freemanke/abc:latest
