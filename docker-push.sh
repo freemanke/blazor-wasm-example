@@ -1,1 +1,1 @@
-docker push home.freemanke.com:60013/freemanke/abc:latest
+docker push home.freemanke.com:60013/freemanke/blazor-wasm-example:latest
